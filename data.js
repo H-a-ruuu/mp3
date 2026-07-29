@@ -1,11 +1,11 @@
 window.SEONGUN_SHARED_DATA = {
   "images": [
-    {
-      "id": "img_1785345179237",
-      "data": "https://raw.githubusercontent.com/H-a-ruuu/mp3/refs/heads/main/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8256%202.jpeg",
-      "nick": ""
-    }
-  ],
+  {
+    "id": "img_1785347286383",
+    "data": "github.com/H-a-ruuu/mp3/blob/main/일러스트256%202.jpeg?raw=true",
+    "nick": ""
+  }
+],
   "records": [
     {
       "id": "rec_1785345571464",
